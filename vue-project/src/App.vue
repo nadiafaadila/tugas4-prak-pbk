@@ -8,7 +8,7 @@
 </template>
 
 <script>
-import Parent from './components/Parent.vue';
+import Parent from './components/parent.vue';
 
 export default {
   name: 'App',
